@@ -7,7 +7,7 @@
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielkasprzak&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact">](https://github-readme-stats.vercel.app/api/top-langs/?username=danielkasprzak&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 
-#### I'm **Daniel**, aspiring full-stack developer from Poland.
+#### I'm **Daniel**, software developer from Poland.
 - 👨‍💻 I'm currently working on: [MStudio](https://github.com/danielkasprzak/MStudio)
 - 😎🤙 Sup?
 
